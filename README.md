@@ -4,6 +4,7 @@
 
 ```
 conda install -c conda-forge pyqt
+conda install -c conda-forge pyqtgraph
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
