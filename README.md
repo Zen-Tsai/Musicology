@@ -1,5 +1,8 @@
 # Musicology
 
+## Flow Chart
+[flow-chart](https://github.com/Zen-Tsai/Musicology/blob/main/flow-chart.jpg)
+
 ## Demos
 These videos are provided exclusively for educational and reporting purposes within classes at National Taiwan University. They are not intended for commercial use, distribution, or reporting outside of this specific educational context at the university. Please respect the intended use and limitations of these materials.
 
