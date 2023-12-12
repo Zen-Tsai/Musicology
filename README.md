@@ -9,7 +9,7 @@ These videos are provided exclusively for educational and reporting purposes wit
 - https://youtu.be/FD_uPhWM8Rs
 - https://youtu.be/oyUsPPuKbRs
 
-## Installation
+## Installation on macOS (Tested on M1 chip)
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
