@@ -1,4 +1,5 @@
-# Musicology
+# Augmented Audio Reality (AAR)
+Final Project - Applied Musicology for the Anthropocene (National Taiwan University, 112-1.)
 
 ## Flow Chart
 ![flow-chart](https://github.com/Zen-Tsai/Musicology/blob/main/flow-chart.jpg?raw=true)
@@ -22,3 +23,5 @@ conda install -c conda-forge pydub
 conda install -c conda-forge pyqt
 conda install -c conda-forge pyqtgraph
 ```
+
+Use `python main.py` to run.
